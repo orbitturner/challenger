@@ -16,5 +16,8 @@ It uses basic web programming languages such as:
     🔹 PHP	
     🔹 JS	
     🔹 MySQL
+
 ______________________________________________________
 Developed by Mohamed GUEYE (OrbitTurner).
+
+![Image of OT](https://github.com/orbitturner/challenger/blob/master/images/orbitturner1.png)
